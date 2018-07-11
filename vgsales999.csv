@@ -1,0 +1,999 @@
+Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+Wii,Medio,Sports,Nintendo,Altissima,Altissima,Medio alto,Alta,Altissima
+NES,Muito antigo,Platform,Nintendo,Altissima,Medio alto,Alta,Baixo,Altissima
+Wii,Medio,Racing,Nintendo,Altissima,Alta,Medio alto,Medio alto,Altissima
+Wii,Medio,Sports,Nintendo,Altissima,Alta,Medio alto,Medio alto,Altissima
+GB,Muito antigo,Role-Playing,Nintendo,Alta,Alta,Alta,Baixo,Altissima
+GB,Muito antigo,Puzzle,Nintendo,Altissima,Medio,Medio alto,Baixo,Altissima
+DS,Medio,Platform,Nintendo,Alta,Alta,Alta,Medio alto,Altissima
+Wii,Medio,Misc,Nintendo,Alta,Alta,Medio alto,Medio alto,Altissima
+Wii,Medio,Platform,Nintendo,Alta,Alta,Medio alto,Medio,Altissima
+NES,Muito antigo,Shooter,Nintendo,Altissima,Baixo,Baixissimo,Baixissimo,Altissima
+DS,Antigo,Simulation,Nintendo,Alta,Alta,Medio,Medio alto,Altissima
+DS,Antigo,Racing,Nintendo,Alta,Alta,Medio alto,Medio,Altissima
+GB,Muito antigo,Role-Playing,Nintendo,Alta,Alta,Alta,Baixo,Altissima
+Wii,Medio,Sports,Nintendo,Alta,Alta,Medio alto,Medio,Altissima
+Wii,Medio,Sports,Nintendo,Alta,Alta,Medio alto,Medio,Altissima
+X360,Medio,Misc,Microsoft Game Studios,Alta,Medio alto,Baixissimo,Medio,Altissima
+PS3,Novo,Action,Take-Two Interactive,Alta,Alta,Baixo,Medio alto,Altissima
+PS2,Antigo,Action,Take-Two Interactive,Alta,Baixissimo,Baixissimo,Alta,Altissima
+SNES,Muito antigo,Platform,Nintendo,Alta,Medio alto,Medio alto,Baixo,Altissima
+DS,Antigo,Misc,Nintendo,Medio alto,Alta,Medio alto,Medio,Altissima
+DS,Medio,Role-Playing,Nintendo,Alta,Medio alto,Alta,Medio,Alto
+GB,Muito antigo,Platform,Nintendo,Alta,Medio alto,Medio alto,Baixissimo,Alto
+NES,Muito antigo,Platform,Nintendo,Alta,Medio alto,Medio alto,Baixissimo,Alto
+X360,Novo,Action,Take-Two Interactive,Alta,Alta,Baixissimo,Medio,Alto
+PS2,Antigo,Action,Take-Two Interactive,Alta,Alta,Baixissimo,Medio,Alto
+GBA,Antigo,Role-Playing,Nintendo,Alta,Medio alto,Alta,Baixissimo,Alto
+DS,Medio,Role-Playing,Nintendo,Alta,Medio alto,Alta,Baixo,Alto
+DS,Antigo,Puzzle,Nintendo,Medio alto,Alta,Alta,Medio,Alto
+PS2,Antigo,Racing,Sony Computer Entertainment,Alta,Alta,Medio,Medio,Alto
+X360,Medio,Shooter,Activision,Alta,Medio alto,Baixissimo,Medio,Alto
+GB,Muito antigo,Role-Playing,Nintendo,Alta,Alta,Medio alto,Baixo,Alto
+X360,Medio,Shooter,Activision,Alta,Medio alto,Baixissimo,Medio,Alto
+3DS,Novo,Role-Playing,Nintendo,Alta,Medio alto,Medio alto,Baixo,Alto
+PS4,Novo,Shooter,Activision,Alta,Alta,Baixissimo,Medio,Alto
+PS3,Medio,Shooter,Activision,Medio alto,Alta,Baixo,Medio alto,Alto
+X360,Medio,Shooter,Activision,Alta,Medio alto,Baixissimo,Medio,Alto
+X360,Medio,Shooter,Activision,Alta,Medio alto,Baixissimo,Medio,Alto
+PS3,Medio,Shooter,Activision,Alta,Alta,Baixissimo,Medio,Alto
+PS2,Antigo,Action,Take-Two Interactive,Alta,Medio alto,Baixissimo,Medio,Alto
+Wii,Medio,Fighting,Nintendo,Alta,Medio alto,Medio alto,Medio,Alto
+PS3,Medio,Shooter,Activision,Alta,Medio alto,Baixissimo,Medio,Alto
+DS,Antigo,Simulation,Nintendo,Medio alto,Medio alto,Alta,Baixo,Alto
+3DS,Medio,Racing,Nintendo,Medio alto,Medio alto,Medio alto,Baixo,Alto
+X360,Medio,Shooter,Microsoft Game Studios,Alta,Medio alto,Baixissimo,Medio,Alto
+PS4,Novo,Action,Take-Two Interactive,Medio alto,Alta,Baixissimo,Medio,Alto
+DS,Medio,Action,Nintendo,Medio alto,Medio alto,Medio alto,Baixo,Alto
+N64,Muito antigo,Platform,Nintendo,Alta,Medio alto,Medio,Baixissimo,Alto
+PS2,Antigo,Racing,Sony Computer Entertainment,Medio alto,Baixissimo,Medio,Alta,Alto
+Wii,Medio,Platform,Nintendo,Alta,Medio alto,Medio,Baixo,Alto
+3DS,Novo,Role-Playing,Nintendo,Medio alto,Medio alto,Medio alto,Baixo,Alto
+GB,Muito antigo,Adventure,Nintendo,Alta,Medio,Medio alto,Baixissimo,Alto
+X360,Medio,Action,Take-Two Interactive,Alta,Medio alto,Baixissimo,Medio,Alto
+PS,Muito antigo,Racing,Sony Computer Entertainment,Medio alto,Medio alto,Medio alto,Baixo,Alto
+3DS,Medio,Platform,Nintendo,Medio alto,Medio alto,Medio,Baixo,Alto
+PS3,Medio,Racing,Sony Computer Entertainment,Medio alto,Medio alto,Baixo,Medio,Alto
+PS3,Medio,Shooter,Activision,Medio alto,Medio alto,Baixissimo,Medio,Alto
+PS3,Medio,Action,Take-Two Interactive,Medio alto,Medio alto,Baixissimo,Medio,Alto
+SNES,Muito antigo,Platform,Nintendo,Alta,Medio,Medio,Baixissimo,Alto
+GBA,Antigo,Role-Playing,Nintendo,Medio alto,Medio alto,Medio alto,Baixissimo,Alto
+DS,Antigo,Platform,Nintendo,Alta,Medio alto,Medio,Baixo,Alto
+Wii,Medio,Misc,Ubisoft,Alta,Medio alto,Baixissimo,Medio,Alto
+X360,Novo,Shooter,Activision,Alta,Medio alto,Baixissimo,Baixo,Alto
+X360,Medio,Shooter,Microsoft Game Studios,Alta,Medio,Baixissimo,Baixo,Medio alto
+N64,Muito antigo,Racing,Nintendo,Alta,Medio,Medio,Baixissimo,Medio alto
+3DS,Medio,Platform,Nintendo,Medio alto,Medio alto,Medio,Baixo,Medio alto
+X360,Medio,Shooter,Microsoft Game Studios,Alta,Medio,Baixissimo,Baixo,Medio alto
+PS,Muito antigo,Role-Playing,Sony Computer Entertainment,Medio alto,Medio,Medio alto,Baixo,Medio alto
+PS3,Novo,Shooter,Activision,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+Wii,Medio,Misc,Ubisoft,Alta,Medio alto,Baixissimo,Baixo,Medio alto
+PS,Muito antigo,Racing,Sony Computer Entertainment,Medio alto,Medio alto,Medio,Baixissimo,Medio alto
+X360,Medio,Shooter,Activision,Alta,Medio,Baixissimo,Baixo,Medio alto
+SNES,Muito antigo,Platform,Nintendo,Medio alto,Medio,Medio alto,Baixissimo,Medio alto
+X360,Novo,Misc,Microsoft Game Studios,Alta,Medio alto,Baixissimo,Baixo,Medio alto
+3DS,Medio,Simulation,Nintendo,Medio,Medio,Medio alto,Baixissimo,Medio alto
+DS,Medio,Misc,Nintendo,Medio alto,Medio,Medio,Baixo,Medio alto
+X360,Medio,Role-Playing,Bethesda Softworks,Alta,Medio alto,Baixissimo,Baixo,Medio alto
+SNES,Muito antigo,Racing,Nintendo,Medio alto,Medio,Medio alto,Baixissimo,Medio alto
+PS4,Novo,Sports,Electronic Arts,Medio,Alta,Baixissimo,Medio,Medio alto
+Wii,Medio,Misc,Nintendo,Medio,Medio alto,Medio,Baixo,Medio alto
+XB,Antigo,Shooter,Microsoft Game Studios,Alta,Medio,Baixissimo,Baixissimo,Medio alto
+Wii,Medio,Misc,Nintendo,Medio alto,Medio,Medio,Baixo,Medio alto
+DS,Medio,Role-Playing,Nintendo,Medio alto,Medio,Medio alto,Baixissimo,Medio alto
+PS3,Medio,Action,Electronic Arts,Medio,Alta,Baixissimo,Medio,Medio alto
+PC,Medio,Simulation,Electronic Arts,Baixo,Alta,Baixissimo,Baixo,Medio alto
+N64,Muito antigo,Shooter,Nintendo,Alta,Medio,Baixissimo,Baixissimo,Medio alto
+Wii,Medio,Sports,Sega,Medio alto,Medio alto,Baixo,Baixo,Medio alto
+PS2,Antigo,Role-Playing,Sony Computer Entertainment,Medio alto,Medio,Medio alto,Baixissimo,Medio alto
+PS,Muito antigo,Role-Playing,SquareSoft,Medio,Medio,Medio alto,Baixissimo,Medio alto
+DS,Medio,Role-Playing,Nintendo,Medio alto,Medio,Medio alto,Baixo,Medio alto
+?,Muito antigo,Puzzle,Atari,Alta,Baixissimo,Baixissimo,Baixissimo,Medio alto
+PSP,Antigo,Action,Take-Two Interactive,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+Wii,Medio,Platform,Nintendo,Medio alto,Medio,Baixo,Baixo,Medio alto
+PS4,Novo,Shooter,Electronic Arts,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+PS4,Novo,Shooter,Activision,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+N64,Muito antigo,Action,Nintendo,Medio alto,Medio,Medio,Baixissimo,Medio alto
+PS,Muito antigo,Platform,Sony Computer Entertainment,Medio alto,Medio,Medio,Baixissimo,Medio alto
+NES,Muito antigo,Platform,Nintendo,Alta,Medio,Baixo,Baixissimo,Medio alto
+3DS,Novo,Fighting,Nintendo,Medio alto,Medio,Medio,Baixissimo,Medio alto
+X360,Medio,Shooter,Activision,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+X360,Medio,Shooter,Electronic Arts,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+Wii,Medio,Action,Nintendo,Medio alto,Medio,Baixo,Baixo,Medio alto
+XOne,Novo,Shooter,Activision,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+Wii,Medio,Misc,Ubisoft,Medio alto,Medio alto,Baixissimo,Baixo,Medio alto
+PS3,Medio,Shooter,Electronic Arts,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+PS2,Antigo,Racing,Electronic Arts,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+PS,Muito antigo,Fighting,Sony Computer Entertainment,Medio alto,Medio,Medio,Baixissimo,Medio alto
+PS,Muito antigo,Platform,Sony Computer Entertainment,Medio alto,Medio,Medio,Baixissimo,Medio alto
+GC,Antigo,Fighting,Nintendo,Medio alto,Medio,Medio,Baixissimo,Medio alto
+WiiU,Novo,Racing,Nintendo,Medio alto,Medio,Medio,Baixissimo,Medio alto
+PS4,Novo,Role-Playing,Bethesda Softworks,Medio,Medio alto,Baixissimo,Medio,Medio alto
+GC,Antigo,Racing,Nintendo,Medio alto,Medio,Baixo,Baixissimo,Medio alto
+Wii,Medio,Misc,Ubisoft,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+PS3,Novo,Sports,Electronic Arts,Baixo,Medio alto,Baixissimo,Medio,Medio alto
+PS2,Antigo,Racing,Electronic Arts,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+PS2,Antigo,Shooter,Electronic Arts,Medio alto,Medio alto,Baixissimo,Baixo,Medio alto
+PS3,Medio,Action,Sony Computer Entertainment,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+PS,Muito antigo,Platform,Sony Computer Entertainment,Medio alto,Medio,Baixo,Baixissimo,Medio alto
+Wii,Medio,Sports,505 Games,Medio alto,Medio alto,Baixissimo,Baixo,Medio alto
+X360,Medio,Shooter,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+PS3,Medio,Action,Sony Computer Entertainment,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+PS3,Medio,Shooter,Activision,Medio alto,Medio,Baixissimo,Medio,Medio alto
+PS3,Medio,Sports,Electronic Arts,Baixo,Medio alto,Baixissimo,Medio,Medio alto
+DS,Antigo,Misc,Nintendo,Medio,Medio alto,Medio,Baixo,Medio alto
+PS3,Medio,Action,Take-Two Interactive,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+PS4,Novo,Sports,Electronic Arts,Baixo,Medio alto,Baixissimo,Medio,Medio alto
+Wii,Medio,Platform,Nintendo,Medio alto,Medio,Medio,Baixissimo,Medio alto
+PS3,Medio,Role-Playing,Bethesda Softworks,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+NES,Muito antigo,Action,Nintendo,Medio alto,Baixo,Medio,Baixissimo,Medio alto
+PS3,Medio,Action,Ubisoft,Medio alto,Medio alto,Baixissimo,Medio,Medio alto
+XB,Antigo,Shooter,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+GBA,Antigo,Role-Playing,Nintendo,Medio alto,Medio,Medio,Baixissimo,Medio alto
+PS2,Antigo,Role-Playing,Sony Computer Entertainment,Medio alto,Medio,Medio,Baixissimo,Medio alto
+GB,Antigo,Role-Playing,Nintendo,Medio alto,Medio,Medio,Baixo,Medio alto
+X360,Medio,Shooter,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+X360,Medio,Action,Take-Two Interactive,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+GC,Antigo,Platform,Nintendo,Medio alto,Medio,Baixo,Baixissimo,Medio alto
+SNES,Muito antigo,Fighting,Capcom,Medio,Baixo,Medio alto,Baixissimo,Medio alto
+PC,Antigo,Role-Playing,Activision,Baixissimo,Alta,Baixissimo,Baixissimo,Medio alto
+PS,Muito antigo,Action,GT Interactive,Medio alto,Medio alto,Baixissimo,Baixissimo,Medio alto
+X360,Medio,Sports,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+X360,Medio,Shooter,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+X360,Medio,Shooter,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+PS2,Antigo,Action,Konami Digital Entertainment,Medio,Medio,Baixo,Baixo,Medio alto
+GEN,Muito antigo,Platform,Sega,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+PS3,Medio,Action,Konami Digital Entertainment,Medio alto,Medio,Baixo,Baixo,Medio alto
+PS,Muito antigo,Action,Konami Digital Entertainment,Medio alto,Medio,Baixo,Baixissimo,Medio alto
+PS3,Novo,Action,Sony Computer Entertainment Europe,Medio,Medio,Baixissimo,Medio,Medio alto
+PS2,Medio,Role-Playing,Square Enix,Medio,Baixissimo,Medio,Medio,Medio alto
+PS3,Medio,Platform,Sony Computer Entertainment,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+DS,Medio,Role-Playing,Nintendo,Baixo,Baixo,Medio alto,Baixissimo,Medio alto
+Wii,Medio,Action,LucasArts,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+PS,Muito antigo,Action,Virgin Interactive,Medio,Medio,Medio,Baixissimo,Medio alto
+PS,Muito antigo,Fighting,Sony Computer Entertainment,Medio,Medio,Medio,Baixissimo,Medio alto
+DS,Medio,Simulation,505 Games,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+PS4,Novo,Shooter,Activision,Medio,Medio,Baixissimo,Baixo,Medio alto
+NES,Muito antigo,Puzzle,Nintendo,Medio alto,Baixo,Medio,Baixissimo,Medio alto
+PS3,Medio,Action,Ubisoft,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+N64,Muito antigo,Fighting,Nintendo,Medio alto,Baixo,Medio,Baixissimo,Medio alto
+X360,Medio,Adventure,Ubisoft,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+PS3,Medio,Action,Warner Bros Interactive Entertainment,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+X360,Medio,Racing,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+PSP,Medio,Role-Playing,Capcom,Baixissimo,Baixo,Medio alto,Baixissimo,Medio alto
+GBA,Antigo,Platform,Nintendo,Medio alto,Medio,Baixo,Baixissimo,Medio alto
+GBA,Antigo,Racing,Nintendo,Medio alto,Medio,Baixo,Baixissimo,Medio alto
+GBA,Antigo,Platform,Nintendo,Medio alto,Medio,Baixo,Baixissimo,Medio alto
+N64,Muito antigo,Strategy,Nintendo,Medio alto,Medio,Baixo,Baixissimo,Medio alto
+PS3,Medio,Shooter,Activision,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+PS2,Antigo,Platform,Universal Interactive,Medio,Medio,Baixissimo,Baixo,Medio alto
+PS3,Novo,Misc,Sony Computer Entertainment,Medio,Medio alto,Baixissimo,Baixo,Medio alto
+PS3,Medio,Role-Playing,Square Enix,Medio,Medio,Medio,Baixo,Medio alto
+GB,Muito antigo,Puzzle,Nintendo,Medio,Baixo,Medio,Baixissimo,Medio alto
+GB,Muito antigo,Misc,Nintendo,Medio alto,Medio,Medio,Baixissimo,Medio alto
+X360,Medio,Action,Ubisoft,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+PS,Antigo,Role-Playing,SquareSoft,Medio,Baixo,Medio alto,Baixissimo,Medio alto
+PS2,Antigo,Role-Playing,Electronic Arts,Medio,Medio,Medio,Baixissimo,Medio alto
+N64,Muito antigo,Platform,Nintendo,Medio alto,Baixo,Medio,Baixissimo,Medio alto
+X360,Medio,Action,Ubisoft,Medio alto,Medio,Baixissimo,Baixo,Medio alto
+DS,Medio,Puzzle,Nintendo,Medio,Medio,Medio,Baixo,Medio alto
+PS,Muito antigo,Action,Eidos Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio alto
+PS2,Novo,Sports,Electronic Arts,Medio alto,Baixissimo,Baixissimo,Baixo,Medio alto
+PS2,Antigo,Role-Playing,Square Enix,Baixo,Baixo,Medio alto,Baixissimo,Medio alto
+PC,Medio,Role-Playing,Activision,Medio,Medio,Baixissimo,Baixo,Medio alto
+GBA,Antigo,Platform,Nintendo,Medio alto,Medio,Baixo,Baixissimo,Medio alto
+WiiU,Medio,Platform,Nintendo,Medio,Medio,Medio,Baixissimo,Medio alto
+GB,Muito antigo,Platform,Nintendo,Medio,Baixo,Medio,Baixissimo,Medio alto
+X360,Medio,Action,Electronic Arts,Medio,Medio alto,Baixissimo,Baixo,Medio alto
+DS,Medio,Action,Nintendo,Medio,Medio,Baixo,Baixissimo,Medio alto
+SNES,Muito antigo,Platform,Nintendo,Medio,Baixo,Medio,Baixissimo,Medio alto
+3DS,Novo,Simulation,Nintendo,Baixo,Medio,Medio,Baixissimo,Medio alto
+DS,Medio,Sports,Sega,Medio,Medio,Baixissimo,Baixo,Medio alto
+PS2,Antigo,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixo,Medio alto
+GB,Muito antigo,Platform,Nintendo,Medio alto,Baixo,Medio,Baixissimo,Medio alto
+X360,Medio,Role-Playing,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+XOne,Novo,Shooter,Activision,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+PC,Muito antigo,Simulation,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+PS2,Medio,Misc,RedOctane,Medio alto,Baixo,Baixissimo,Baixo,Medio alto
+PS3,Medio,Action,Capcom,Medio,Medio,Medio,Baixo,Medio alto
+XOne,Novo,Action,Take-Two Interactive,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+PSP,Medio,Action,Take-Two Interactive,Medio,Medio,Baixissimo,Medio,Medio alto
+PS3,Medio,Sports,Electronic Arts,Baixo,Medio alto,Baixissimo,Medio,Medio alto
+GB,Muito antigo,Platform,Nintendo,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+PS,Muito antigo,Action,Virgin Interactive,Medio,Medio,Medio,Baixo,Medio alto
+PS,Muito antigo,Sports,Activision,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+WiiU,Novo,Fighting,Nintendo,Medio alto,Medio,Baixo,Baixo,Medio alto
+PS,Muito antigo,Strategy,Eidos Interactive,Medio alto,Medio,Baixissimo,Baixissimo,Medio alto
+PS,Muito antigo,Platform,Sony Computer Entertainment,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Shooter,Nintendo,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+PS2,Medio,Misc,Activision,Medio alto,Baixissimo,Baixissimo,Medio,Medio
+X360,Medio,Role-Playing,Bethesda Softworks,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Role-Playing,Nintendo,Medio,Medio,Medio,Baixissimo,Medio
+PS3,Medio,Action,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+PS2,Antigo,Sports,Electronic Arts,Medio alto,Baixissimo,Baixissimo,Baixo,Medio
+DS,Medio,Action,LucasArts,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Racing,Nintendo,Medio alto,Baixo,Baixo,Baixissimo,Medio
+PSP,Medio,Role-Playing,Capcom,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+NES,Muito antigo,Puzzle,Nintendo,Medio alto,Baixo,Medio,Baixissimo,Medio
+PS3,Medio,Action,Sony Computer Entertainment,Medio alto,Medio,Baixissimo,Baixo,Medio
+PC,Medio,Strategy,Activision,Medio alto,Medio,Baixissimo,Baixo,Medio
+PS3,Medio,Adventure,Ubisoft,Medio,Medio,Baixissimo,Baixo,Medio
+PS3,Novo,Sports,Electronic Arts,Baixo,Medio alto,Baixissimo,Medio,Medio
+PS,Muito antigo,Racing,Sony Computer Entertainment,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+PS4,Novo,Sports,Electronic Arts,Baixissimo,Medio alto,Baixissimo,Baixo,Medio
+X360,Medio,Action,Warner Bros Interactive Entertainment,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+PS,Antigo,Action,Atari,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,Vivendi Games,Medio,Medio,Baixissimo,Baixo,Medio
+PS,Antigo,Sports,Activision,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Simulation,Nintendo,Medio,Medio,Medio,Baixissimo,Medio
+PS2,Antigo,Action,Electronic Arts,Medio,Medio,Baixissimo,Baixo,Medio
+X360,Medio,Racing,Microsoft Game Studios,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Action,Eidos Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Activision,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Action,Nintendo,Medio,Baixo,Medio,Baixissimo,Medio
+GC,Antigo,Action,Nintendo,Medio alto,Baixo,Baixo,Baixissimo,Medio
+Wii,Medio,Sports,Sega,Medio,Medio,Baixissimo,Baixissimo,Medio
+3DS,Novo,Action,Nintendo,Medio,Medio,Medio,Baixissimo,Medio
+WiiU,Novo,Shooter,Nintendo,Medio,Medio,Medio,Baixissimo,Medio
+PS4,Novo,Action,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+X360,Medio,Misc,Activision,Medio alto,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+?,Muito antigo,Platform,Activision,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Sports,Electronic Arts,Medio alto,Baixissimo,Baixissimo,Baixo,Medio
+PS2,Antigo,Action,Activision,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+PS,Antigo,Role-Playing,Enix Corporation,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+PS4,Novo,Action,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+PS3,Novo,Shooter,Activision,Medio,Medio,Baixissimo,Baixo,Medio
+PS2,Antigo,Action,Sony Computer Entertainment,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+WiiU,Medio,Misc,Nintendo,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Ubisoft,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Activision,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+PS2,Medio,Sports,Konami Digital Entertainment,Baixissimo,Medio,Medio,Baixo,Medio
+X360,Medio,Role-Playing,Take-Two Interactive,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Adventure,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+PS2,Antigo,Racing,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Shooter,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+GEN,Muito antigo,Platform,Sega,Medio alto,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Role-Playing,Square Enix,Medio,Baixo,Medio,Baixissimo,Medio
+X360,Novo,Sports,Electronic Arts,Baixo,Medio alto,Baixissimo,Baixissimo,Medio
+X360,Novo,Shooter,Activision,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+?,Muito antigo,Shooter,Atari,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Role-Playing,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+XOne,Novo,Shooter,Microsoft Game Studios,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+WiiU,Novo,Platform,Nintendo,Medio,Medio,Baixo,Baixissimo,Medio
+PS3,Medio,Action,Eidos Interactive,Medio,Medio,Baixissimo,Baixo,Medio
+PS3,Medio,Action,Ubisoft,Medio,Medio,Baixissimo,Baixo,Medio
+GBA,Antigo,Misc,Namco Bandai Games,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Konami Digital Entertainment,Medio,Baixissimo,Baixo,Medio,Medio
+PSP,Medio,Platform,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+PC,Muito antigo,Strategy,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+3DS,Medio,Action,Nintendo,Medio,Medio,Baixo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Baixo,Medio alto,Baixissimo,Baixo,Medio
+PS2,Antigo,Misc,Sony Computer Entertainment,Baixo,Medio,Baixissimo,Baixo,Medio
+PS4,Novo,Shooter,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+PS3,Medio,Racing,Sony Computer Entertainment,Medio,Medio,Baixo,Baixo,Medio
+X360,Medio,Action,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Fighting,Capcom,Medio,Medio,Baixo,Baixo,Medio
+X360,Medio,Sports,Electronic Arts,Baixo,Medio alto,Baixissimo,Baixo,Medio
+NES,Muito antigo,Action,Palcom,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Racing,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+PS,Muito antigo,Action,Hasbro Interactive,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Medio alto,Baixissimo,Baixissimo,Baixo,Medio
+PS4,Novo,Action,Ubisoft,Medio,Medio,Baixissimo,Baixo,Medio
+PC,Muito antigo,Shooter,Vivendi Games,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Platform,Nintendo,Medio,Baixo,Medio,Baixissimo,Medio
+PS2,Medio,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixo,Medio
+Wii,Medio,Action,Nintendo,Medio,Medio,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Fighting,Capcom,Medio,Baixo,Medio,Baixissimo,Medio
+Wii,Medio,Misc,Take-Two Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+XOne,Novo,Role-Playing,Bethesda Softworks,Medio,Medio,Baixissimo,Baixissimo,Medio
+PC,Medio,Role-Playing,Activision,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Role-Playing,Bethesda Softworks,Medio alto,Medio,Baixissimo,Baixissimo,Medio
+PS2,Medio,Action,Sony Computer Entertainment,Medio,Baixissimo,Baixissimo,Medio,Medio
+X360,Medio,Racing,Microsoft Game Studios,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Konami Digital Entertainment,Baixissimo,Medio,Baixo,Baixo,Medio
+PS,Muito antigo,Misc,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,Namco Bandai Games,Medio,Medio,Baixo,Baixissimo,Medio
+PS4,Novo,Shooter,Ubisoft,Medio,Medio,Baixissimo,Baixo,Medio
+N64,Muito antigo,Shooter,Nintendo,Medio alto,Baixo,Baixo,Baixissimo,Medio
+PS4,Novo,Misc,Sony Computer Entertainment Europe,Medio,Medio,Baixissimo,Baixo,Medio
+NES,Muito antigo,Sports,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+PS3,Medio,Role-Playing,Bethesda Softworks,Medio,Medio,Baixissimo,Baixo,Medio
+DS,Medio,Puzzle,Nintendo,Baixo,Medio,Baixo,Baixissimo,Medio
+X360,Medio,Shooter,Electronic Arts,Medio alto,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Misc,Namco Bandai Games,Medio,Medio,Baixissimo,Baixo,Medio
+Wii,Medio,Sports,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS4,Novo,Action,Ubisoft,Medio,Medio,Baixissimo,Baixo,Medio
+GB,Muito antigo,Platform,Nintendo,Medio,Baixo,Medio,Baixissimo,Medio
+PS2,Antigo,Sports,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS3,Novo,Action,Ubisoft,Medio,Medio,Baixissimo,Baixo,Medio
+3DS,Novo,Role-Playing,Nintendo,Baixo,Baixissimo,Medio alto,Baixissimo,Medio
+PS3,Medio,Racing,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+PC,Medio,Role-Playing,Bethesda Softworks,Medio,Medio,Baixissimo,Baixo,Medio
+PS2,Antigo,Fighting,Namco Bandai Games,Baixo,Medio,Baixissimo,Baixo,Medio
+NES,Muito antigo,Role-Playing,Enix Corporation,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+PS3,Medio,Sports,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+PS4,Novo,Sports,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixo,Medio
+PS2,Antigo,Sports,Konami Digital Entertainment,Baixissimo,Medio,Medio,Baixo,Medio
+DS,Medio,Misc,Nintendo,Baixo,Medio,Medio,Baixissimo,Medio
+PS,Muito antigo,Misc,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Action,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+DS,Medio,Role-Playing,Nintendo,Medio,Baixissimo,Baixo,Baixissimo,Medio
+Wii,Medio,Misc,Nintendo,Medio,Medio,Baixissimo,Baixissimo,Medio
+3DS,Medio,Simulation,Nintendo,Medio,Medio,Baixo,Baixissimo,Medio
+PS4,Novo,Action,Warner Bros Interactive Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+Wii,Medio,Sports,Sega,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Action,Virgin Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+PSP,Medio,Platform,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+Wii,Novo,Misc,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+PC,Antigo,Simulation,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Platform,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+PS,Antigo,Action,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS4,Novo,Role-Playing,Namco Bandai Games,Baixo,Medio,Baixissimo,Baixo,Medio
+PS,Muito antigo,Action,Eidos Interactive,Medio,Baixo,Medio,Baixissimo,Medio
+PS,Antigo,Platform,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixo,Medio
+GB,Muito antigo,Strategy,Nintendo,Medio,Baixo,Medio,Baixissimo,Medio
+PS3,Novo,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixo,Medio
+DS,Medio,Simulation,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Misc,Nintendo,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+PS2,Antigo,Sports,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+PSP,Antigo,Racing,Take-Two Interactive,Medio,Medio,Baixissimo,Baixo,Medio
+N64,Muito antigo,Platform,Nintendo,Medio,Medio,Baixo,Baixissimo,Medio
+PS2,Antigo,Shooter,Sony Computer Entertainment,Medio alto,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Novo,Racing,Sony Computer Entertainment,Baixo,Medio,Baixissimo,Baixo,Medio
+PS2,Antigo,Platform,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Simulation,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+PS3,Medio,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixo,Medio
+PS2,Medio,Sports,Konami Digital Entertainment,Baixissimo,Baixissimo,Baixo,Medio alto,Medio
+PS4,Novo,Shooter,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Capcom,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Shooter,Ubisoft,Medio,Medio,Baixissimo,Baixo,Medio
+PS2,Antigo,Shooter,LucasArts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Shooter,Virgin Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Simulation,505 Games,Medio,Medio,Baixissimo,Baixissimo,Medio
+GC,Antigo,Action,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Shooter,LucasArts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Antigo,Fighting,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Platform,Fox Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Medio,Action,Take-Two Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Action,Eidos Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Eidos Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Novo,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS,Antigo,Action,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Platform,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Electronic Arts,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+DS,Medio,Sports,Sega,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Capcom,Medio,Baixo,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Platform,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+X360,Medio,Action,Ubisoft,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Action,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+X360,Medio,Action,Eidos Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Misc,Nintendo,Baixo,Medio,Baixo,Baixissimo,Medio
+PS2,Novo,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixo,Medio
+XOne,Novo,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Misc,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+XOne,Novo,Action,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Shooter,Ubisoft,Baixo,Medio,Baixissimo,Baixo,Medio
+3DS,Novo,Role-Playing,Capcom,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+X360,Medio,Shooter,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,Namco Bandai Games,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS4,Novo,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Platform,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Action,Take-Two Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Role-Playing,SquareSoft,Baixo,Baixissimo,Medio alto,Baixissimo,Medio
+PS2,Antigo,Action,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Racing,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Baixissimo,Medio,Baixissimo,Baixo,Medio
+PS,Antigo,Misc,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Warner Bros Interactive Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS4,Novo,Action,Konami Digital Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Action,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+PS,Muito antigo,Fighting,Acclaim Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+N64,Antigo,Action,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+DS,Medio,Puzzle,Nintendo,Baixo,Medio,Baixo,Baixissimo,Medio
+PS,Muito antigo,Adventure,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Novo,Action,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Misc,Nintendo,Baixissimo,Baixo,Medio,Baixissimo,Medio
+PS2,Antigo,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Platform,Sony Computer Entertainment,Medio,Medio,Baixo,Baixissimo,Medio
+Wii,Medio,Misc,Nintendo,Medio,Medio,Baixo,Baixissimo,Medio
+PS2,Antigo,Action,LucasArts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Shooter,Take-Two Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS4,Novo,Action,Ubisoft,Baixo,Medio,Baixissimo,Baixissimo,Medio
+XOne,Novo,Shooter,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Nintendo,Medio,Medio,Baixissimo,Baixissimo,Medio
+PSP,Medio,Racing,Sony Computer Entertainment,Baixissimo,Medio,Baixissimo,Baixo,Medio
+3DS,Novo,Action,Capcom,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+PS,Muito antigo,Fighting,Sony Computer Entertainment,Baixo,Medio,Baixo,Baixissimo,Medio
+XOne,Novo,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Adventure,Take-Two Interactive,Medio,Medio,Baixissimo,Baixo,Medio
+PS4,Novo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixo,Medio
+3DS,Novo,Role-Playing,Nintendo,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+PS,Muito antigo,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Sports,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+SNES,Muito antigo,Fighting,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Antigo,Fighting,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+PSP,Medio,Role-Playing,Square Enix,Medio,Baixo,Baixo,Baixissimo,Medio
+PSP,Medio,Action,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+SNES,Muito antigo,Role-Playing,Enix Corporation,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+X360,Medio,Misc,MTV Games,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Atari,Medio,Medio,Baixissimo,Baixissimo,Medio
+WiiU,Novo,Platform,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+PS3,Medio,Role-Playing,Bethesda Softworks,Medio,Medio,Baixissimo,Baixissimo,Medio
+Wii,Novo,Action,Warner Bros Interactive Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Misc,Nintendo,Baixo,Baixo,Medio,Baixissimo,Medio
+PS2,Antigo,Simulation,Sony Computer Entertainment Europe,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Adventure,Disney Interactive Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GC,Antigo,Simulation,Nintendo,Medio,Baixissimo,Baixo,Baixissimo,Medio
+DS,Medio,Action,Warner Bros Interactive Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+DS,Antigo,Platform,Sega,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Shooter,Capcom,Baixo,Baixo,Baixo,Baixissimo,Medio
+XOne,Novo,Shooter,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Sports,Electronic Arts,Baixo,Baixissimo,Baixissimo,Medio,Medio
+PS,Antigo,Action,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Racing,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Racing,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Misc,Nintendo,Baixo,Baixo,Medio,Baixissimo,Medio
+PS3,Medio,Role-Playing,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Role-Playing,Enix Corporation,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+PS3,Medio,Adventure,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Role-Playing,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Novo,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,Atari,Medio,Baixissimo,Baixo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Sports,Namco Bandai Games,Medio,Baixissimo,Baixo,Baixissimo,Medio
+X360,Medio,Shooter,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+3DS,Novo,Action,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Platform,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+PC,Antigo,Simulation,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Role-Playing,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Platform,Disney Interactive Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Platform,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Shooter,Sony Computer Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+XB,Antigo,Action,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Fighting,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+XOne,Novo,Shooter,Microsoft Game Studios,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Take-Two Interactive,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Fighting,Atari,Medio,Baixissimo,Baixo,Medio,Medio
+PS2,Novo,Fighting,?,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS4,Novo,Action,Warner Bros Interactive Entertainment,Medio,Medio,Baixissimo,Baixo,Medio
+SNES,Muito antigo,Shooter,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+PC,Antigo,Misc,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Konami Digital Entertainment,Baixissimo,Medio,Medio,Baixissimo,Medio
+PS2,Antigo,Action,Capcom,Medio,Baixo,Baixo,Baixissimo,Medio
+3DS,Novo,Simulation,Nintendo,Baixissimo,Baixo,Medio,Baixissimo,Medio
+PS3,Medio,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PC,Novo,Simulation,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PC,Medio,Role-Playing,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Platform,Sega,Medio,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Platform,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+PS2,Antigo,Action,Eidos Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Fighting,Capcom,Medio,Baixo,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Racing,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Shooter,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Puzzle,Atari,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Role-Playing,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Puzzle,Nintendo,Baixo,Medio,Baixo,Baixissimo,Medio
+Wii,Medio,Simulation,505 Games,Medio,Medio,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Platform,Nintendo,Medio,Baixissimo,Baixo,Baixissimo,Medio
+PS4,Novo,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+XOne,Novo,Shooter,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Misc,Sega,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Sega,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Konami Digital Entertainment,Baixissimo,Medio,Medio,Baixissimo,Medio
+PS3,Medio,Racing,Electronic Arts,Baixo,Medio,Baixissimo,Baixo,Medio
+PS2,Antigo,Sports,Sony Computer Entertainment,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS2,Antigo,Shooter,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Sports,Majesco Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Shooter,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Simulation,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Racing,Codemasters,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+XOne,Novo,Shooter,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+XB,Antigo,Role-Playing,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Fighting,Warner Bros Interactive Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Racing,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+N64,Muito antigo,Platform,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+PC,Muito antigo,Strategy,Virgin Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Action,Activision,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS3,Novo,Sports,Electronic Arts,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+GC,Antigo,Shooter,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Action,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Adventure,Red Orb,Baixissimo,Medio alto,Baixissimo,Baixissimo,Medio
+PS3,Medio,Racing,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Simulation,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Platform,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+PS,Muito antigo,Sports,Sony Computer Entertainment,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS3,Medio,Shooter,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Platform,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Role-Playing,Enix Corporation,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+PS,Muito antigo,Fighting,GT Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PC,Medio,Shooter,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+DS,Medio,Puzzle,Nintendo,Baixissimo,Medio,Baixo,Baixissimo,Medio
+3DS,Medio,Role-Playing,Nintendo,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS2,Antigo,Platform,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Action,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Platform,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Fighting,Namco Bandai Games,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Simulation,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Platform,Sega,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,THQ,Medio,Medio,Baixissimo,Baixissimo,Medio
+?,Muito antigo,Shooter,Atari,Medio alto,Baixissimo,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Misc,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+PS4,Novo,Action,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+N64,Antigo,Strategy,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+NES,Muito antigo,Action,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+X360,Medio,Adventure,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Action,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Virgin Interactive,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS4,Novo,Fighting,Warner Bros Interactive Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Misc,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Action,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+DS,Medio,Puzzle,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+3DS,Novo,Role-Playing,Level 5,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+PS3,Medio,Racing,Electronic Arts,Baixo,Medio,Baixissimo,Baixo,Medio
+PS3,Medio,Role-Playing,Square Enix,Baixo,Baixo,Baixo,Baixissimo,Medio
+GEN,Muito antigo,Fighting,Arena Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Shooter,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Misc,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Shooter,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+XB,Antigo,Role-Playing,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Action,Disney Interactive Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Ubisoft,Medio,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Action,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PSP,Medio,Shooter,Electronic Arts,Baixo,Medio,Baixissimo,Baixo,Medio
+NES,Muito antigo,Platform,Nintendo,Baixissimo,Baixissimo,Medio alto,Baixissimo,Medio
+N64,Muito antigo,Action,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PSP,Medio,Fighting,Sony Computer Entertainment,Baixo,Medio,Baixissimo,Baixo,Medio
+X360,Medio,Strategy,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,Sony Computer Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Sega,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Sports,Nintendo,Medio,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+DS,Medio,Simulation,Nintendo,Baixo,Baixo,Baixo,Baixissimo,Medio
+PS2,Antigo,Action,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Platform,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+GEN,Muito antigo,Action,Sega,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Sports,Electronic Arts,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Platform,Sony Computer Entertainment,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PSP,Medio,Platform,Sony Computer Entertainment,Baixo,Medio,Baixissimo,Baixo,Medio
+PS4,Novo,Shooter,Sony Computer Entertainment,Baixo,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Take-Two Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+PSP,Medio,Role-Playing,Capcom,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS2,Medio,Fighting,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Platform,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Misc,Nintendo,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Role-Playing,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GC,Antigo,Platform,Sega,Medio,Baixo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Role-Playing,Enix Corporation,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS3,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GC,Antigo,Role-Playing,Nintendo,Medio,Baixo,Baixo,Baixissimo,Medio
+Wii,Medio,Sports,Konami Digital Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+?,Novo,Shooter,Atari,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,Acclaim Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+N64,Antigo,Action,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Midway Games,Medio,Baixo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Role-Playing,Capcom,Baixissimo,Baixissimo,Baixo,Medio,Medio
+PS3,Novo,Action,Square Enix,Baixo,Medio,Baixissimo,Baixo,Medio
+X360,Medio,Role-Playing,Activision,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Sports,Konami Digital Entertainment,Baixissimo,Baixissimo,Baixissimo,Medio,Medio
+N64,Muito antigo,Misc,Nintendo,Medio,Baixissimo,Medio,Baixissimo,Medio
+PS3,Medio,Action,THQ,Baixo,Medio,Baixissimo,Baixissimo,Medio
+XB,Antigo,Action,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Action,Warner Bros Interactive Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,Midway Games,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Shooter,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Racing,Disney Interactive Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Action,Eidos Interactive,Medio,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Sports,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Novo,Misc,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Novo,Sports,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GC,Antigo,Misc,Nintendo,Medio,Baixissimo,Baixo,Baixissimo,Medio
+Wii,Medio,Misc,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Racing,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Role-Playing,SquareSoft,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS,Muito antigo,Role-Playing,SquareSoft,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS,Muito antigo,Racing,Sony Computer Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PSP,Medio,Racing,Electronic Arts,Baixo,Baixo,Baixissimo,Baixo,Medio
+PS2,Antigo,Simulation,Electronic Arts,Medio,Medio,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Adventure,Red Orb,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DC,Muito antigo,Platform,Sega,Medio,Baixo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Sports,Nintendo,Medio,Baixissimo,Baixo,Baixissimo,Medio
+PS3,Medio,Sports,Konami Digital Entertainment,Baixissimo,Medio,Baixo,Baixissimo,Medio
+PS2,Antigo,Fighting,Atari,Medio,Baixissimo,Baixo,Baixissimo,Medio
+PS2,Antigo,Racing,Sony Computer Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Action,Capcom,Baixo,Baixo,Baixo,Baixissimo,Medio
+XOne,Novo,Misc,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Racing,Electronic Arts,Baixo,Baixissimo,Baixissimo,Medio,Medio
+XOne,Novo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Puzzle,JVC,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Fighting,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PC,Muito antigo,Strategy,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GBA,Novo,Adventure,Konami Digital Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Racing,Electronic Arts,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,505 Games,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Novo,Action,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Misc,Hasbro Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Novo,Action,Warner Bros Interactive Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Deep Silver,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Misc,RedOctane,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Misc,Microsoft Game Studios,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Fighting,THQ,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Action,Sony Computer Entertainment,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Sports,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Misc,Konami Digital Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PC,Antigo,Shooter,Vivendi Games,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,THQ,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Platform,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+DS,Medio,Action,Warner Bros Interactive Entertainment,Medio,Medio,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Platform,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Role-Playing,Eidos Interactive,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+X360,Medio,Racing,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Novo,Platform,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Fighting,THQ,Baixo,Baixissimo,Baixissimo,Medio,Medio
+Wii,Medio,Sports,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Capcom,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Simulation,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+3DS,Novo,Action,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+XOne,Novo,Sports,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+N64,Antigo,Sports,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS,Muito antigo,Action,Take-Two Interactive,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Shooter,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+DS,Antigo,Puzzle,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS,Muito antigo,Racing,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Role-Playing,SquareSoft,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS,Muito antigo,Sports,989 Studios,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Novo,Action,Warner Bros Interactive Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PC,Medio,Action,NCSoft,Baixo,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Role-Playing,Nintendo,Baixo,Baixo,Baixo,Baixissimo,Medio
+PS3,Medio,Action,Deep Silver,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Action,Eidos Interactive,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS3,Novo,Action,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+XB,Antigo,Racing,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Sports,Konami Digital Entertainment,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+Wii,Novo,Misc,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+3DS,Novo,Action,Level 5,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+NES,Muito antigo,Platform,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS2,Medio,Sports,Electronic Arts,Baixissimo,Baixissimo,Baixissimo,Medio,Medio
+PS3,Medio,Action,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Shooter,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Racing,Codemasters,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+3DS,Medio,Role-Playing,Nintendo,Medio,Baixissimo,Baixo,Baixissimo,Medio
+PS3,Medio,Misc,Sega,Medio,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Sega,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Platform,Nintendo,Medio,Baixissimo,Baixo,Baixissimo,Medio
+GBA,Antigo,Platform,Nintendo,Baixo,Baixo,Baixo,Baixissimo,Medio
+PS3,Medio,Misc,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Novo,Shooter,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Action,Capcom,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PSV,Novo,Misc,Sony Computer Entertainment Europe,Baixissimo,Baixo,Baixo,Baixissimo,Medio
+PS2,Antigo,Adventure,Capcom,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS,Muito antigo,Sports,UEP Systems,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GC,Antigo,Role-Playing,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Role-Playing,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PSP,Medio,Fighting,Square Enix,Baixo,Baixo,Baixo,Baixissimo,Medio
+GBA,Antigo,Platform,Sega,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Platform,Vivendi Games,Medio,Baixo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Action,Konami Digital Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+DS,Medio,Action,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Simulation,Konami Digital Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+WiiU,Novo,Platform,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Ubisoft,Baixo,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Puzzle,Warner Bros Interactive Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Adventure,Nintendo,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Racing,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+XOne,Novo,Action,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Action,Capcom,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Misc,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+?,Muito antigo,Action,Parker Bros,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Misc,Activision,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GB,Antigo,Platform,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Sports,Namco Bandai Games,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+Wii,Medio,Platform,Sega,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Puzzle,Disney Interactive Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,Konami Digital Entertainment,Baixissimo,Baixo,Baixo,Baixissimo,Medio
+X360,Medio,Action,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+XB,Antigo,Role-Playing,Activision,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Misc,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+GB,Antigo,Platform,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,Square Enix,Baixo,Medio,Baixissimo,Baixissimo,Medio
+GB,Antigo,Role-Playing,Konami Digital Entertainment,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS2,Antigo,Racing,THQ,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+XOne,Novo,Racing,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Novo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+DS,Medio,Role-Playing,Nintendo,Medio,Baixissimo,Baixo,Baixissimo,Medio
+GBA,Antigo,Role-Playing,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Role-Playing,Square Enix,Medio,Baixo,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Simulation,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Sports,Nintendo,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PC,Antigo,Simulation,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Sports,Ubisoft,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS,Antigo,Shooter,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Shooter,Ubisoft,Baixo,Medio,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Sports,Nintendo,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+XOne,Novo,Sports,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PSP,Medio,Shooter,Activision,Baixo,Medio,Baixissimo,Baixo,Medio
+SNES,Muito antigo,Role-Playing,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+NES,Muito antigo,Misc,Nintendo,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+NES,Muito antigo,Racing,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Simulation,Maxis,Medio,Baixo,Baixissimo,Baixissimo,Medio
+?,Muito antigo,Shooter,Imagic,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Simulation,Konami Digital Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Puzzle,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+GBA,Antigo,Role-Playing,SquareSoft,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+PS4,Novo,Action,Ubisoft,Baixo,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Action,Disney Interactive Studios,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Role-Playing,Square Enix,Baixo,Baixissimo,Medio,Baixissimo,Medio
+Wii,Medio,Platform,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+XB,Antigo,Racing,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Sports,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+PS3,Medio,Sports,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Shooter,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+N64,Antigo,Sports,Activision,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Sports,Konami Digital Entertainment,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Sports,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+Wii,Novo,Misc,MTV Games,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Tecmo Koei,Baixo,Baixissimo,Medio,Baixissimo,Medio
+X360,Medio,Fighting,Warner Bros Interactive Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Role-Playing,SquareSoft,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS2,Antigo,Platform,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+XB,Antigo,Action,Microsoft Game Studios,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PSP,Antigo,Racing,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Valve Software,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Capcom,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Sports,ASCII Entertainment,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+X360,Medio,Action,Capcom,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Mindscape,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+DS,Medio,Simulation,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Shooter,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PSP,Medio,Action,Konami Digital Entertainment,Baixissimo,Baixissimo,Baixo,Baixissimo,Medio
+PC,Medio,Role-Playing,Activision,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Puzzle,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Racing,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+Wii,Medio,Simulation,Konami Digital Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GC,Antigo,Misc,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+PS3,Medio,Action,Take-Two Interactive,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Strategy,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Strategy,Activision,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Sports,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS,Antigo,Shooter,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PSP,Medio,Role-Playing,Square Enix,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+X360,Medio,Fighting,THQ,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Role-Playing,Namco Bandai Games,Baixo,Baixo,Baixo,Baixissimo,Medio
+GBA,Antigo,Strategy,Konami Digital Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Racing,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Simulation,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Role-Playing,Nintendo,Baixo,Baixo,Baixo,Baixissimo,Medio
+GBA,Antigo,Action,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Racing,Namco Bandai Games,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+PS2,Antigo,Fighting,Namco Bandai Games,Medio,Baixo,Baixissimo,Baixissimo,Medio
+3DS,Novo,Role-Playing,Nintendo,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Racing,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Misc,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Novo,Sports,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+DS,Antigo,Role-Playing,Nintendo,Medio,Baixissimo,Baixo,Baixissimo,Medio
+GC,Antigo,Misc,Infogrames,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Novo,Role-Playing,Activision,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+GEN,Muito antigo,Sports,Arena Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Racing,Microsoft Game Studios,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+DS,Medio,Role-Playing,Square Enix,Medio,Baixissimo,Baixo,Baixissimo,Medio
+X360,Medio,Misc,Microsoft Game Studios,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Ubisoft,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS2,Medio,Shooter,Sony Computer Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Ubisoft,Baixo,Medio,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Platform,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+PS4,Novo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Sports,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Misc,Ubisoft,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Antigo,Shooter,Activision,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Novo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Medio,Racing,Microsoft Game Studios,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Puzzle,Midway Games,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+XOne,Novo,Shooter,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Novo,Action,Warner Bros Interactive Entertainment,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+3DS,Medio,Role-Playing,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+PS4,Novo,Racing,Sony Computer Entertainment,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Fighting,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS3,Medio,Fighting,Midway Games,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Action,Activision,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Sports,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+GBA,Antigo,Action,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Antigo,Action,Electronic Arts,Baixo,Medio,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Simulation,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+XOne,Novo,Shooter,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Shooter,Capcom,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Role-Playing,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Platform,Sega,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Platform,Universal Interactive,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Shooter,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Capcom,Baixo,Baixo,Baixo,Baixissimo,Medio
+PS3,Medio,Racing,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+?,Muito antigo,Action,Atari,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Novo,Shooter,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PSP,Antigo,Sports,Sony Computer Entertainment,Baixissimo,Baixissimo,Baixo,Baixissimo,Medio
+NES,Muito antigo,Racing,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Sports,Nintendo,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+DS,Medio,Platform,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+X360,Medio,Shooter,Ubisoft,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Novo,Shooter,Activision,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,Vivendi Games,Baixo,Medio,Baixissimo,Baixissimo,Medio
+XB,Antigo,Action,Take-Two Interactive,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Shooter,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+PC,Muito antigo,Misc,Disney Interactive Studios,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS,Antigo,Adventure,THQ,Baixo,Medio,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Puzzle,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+PS2,Antigo,Fighting,Atari,Medio,Baixissimo,Baixo,Baixissimo,Medio
+PS,Muito antigo,Racing,Sony Computer Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Shooter,Ubisoft,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Role-Playing,Activision,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+X360,Novo,Action,Warner Bros Interactive Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Misc,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Fighting,Acclaim Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+SAT,Muito antigo,Fighting,Sega,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+GB,Muito antigo,Puzzle,Nintendo,Medio,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Fighting,Midway Games,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Novo,Action,Ubisoft,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Sports,Nintendo,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+X360,Novo,Action,Square Enix,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+GB,Antigo,Action,Nintendo,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Racing,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Shooter,THQ,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PC,Antigo,Simulation,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,THQ,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Misc,Sony Computer Entertainment,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+Wii,Medio,Misc,Disney Interactive Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+N64,Antigo,Misc,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+Wii,Medio,Action,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Midway Games,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Shooter,Activision,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Action,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GC,Antigo,Simulation,LucasArts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Shooter,Take-Two Interactive,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Racing,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+3DS,Novo,Role-Playing,Nintendo,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS3,Medio,Platform,Sony Computer Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Role-Playing,Konami Digital Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,Midway Games,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Sports,Sony Computer Entertainment,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS2,Antigo,Shooter,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Fighting,THQ,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Misc,Disney Interactive Studios,Baixissimo,Baixissimo,Baixissimo,Medio,Medio
+GC,Antigo,Adventure,Nintendo,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Sports,Electronic Arts,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,THQ,Baixo,Baixissimo,Medio,Baixissimo,Medio
+3DS,Novo,Platform,Nintendo,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+GB,Antigo,Adventure,Nintendo,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+XB,Antigo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Platform,Activision,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Role-Playing,Sony Computer Entertainment,Baixo,Baixissimo,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Platform,Acclaim Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Misc,Sony Computer Entertainment,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+PS4,Novo,Platform,Sony Computer Entertainment,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Action,Disney Interactive Studios,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Role-Playing,SquareSoft,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+Wii,Medio,Action,Activision,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+3DS,Novo,Misc,Nintendo,Baixo,Baixo,Baixo,Baixissimo,Medio
+PS2,Antigo,Platform,Sony Computer Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Ubisoft,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Role-Playing,Square Enix,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Action,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+PS3,Medio,Action,Sony Computer Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,Unknown,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+PS3,Medio,Role-Playing,Namco Bandai Games,Baixo,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+N64,Muito antigo,Simulation,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+GBA,Antigo,Misc,THQ,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PC,Medio,Role-Playing,Activision,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Racing,Sony Computer Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS4,Novo,Action,Square Enix,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Role-Playing,SquareSoft,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+X360,Medio,Shooter,Electronic Arts,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Simulation,Sony Computer Entertainment,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+3DS,Novo,Platform,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+GEN,Muito antigo,Platform,Sega,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Misc,Namco Bandai Games,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PC,Antigo,Simulation,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Shooter,Nintendo,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+DS,Medio,Role-Playing,Nintendo,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS4,Novo,Action,Bethesda Softworks,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Simulation,Konami Digital Entertainment,Medio,Baixo,Baixissimo,Baixissimo,Medio
+DC,Antigo,Racing,Sega,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Fighting,Sega,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+PS2,Antigo,Platform,Sony Computer Entertainment,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Medio,Misc,Activision,Baixo,Baixissimo,Baixissimo,Baixo,Medio
+GBA,Antigo,Platform,Sega,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS,Muito antigo,Sports,989 Studios,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Novo,Shooter,Activision,Baixissimo,Baixo,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Platform,Virgin Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Novo,Adventure,Sony Computer Entertainment,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Microsoft Game Studios,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Racing,Take-Two Interactive,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+DS,Medio,Role-Playing,Square Enix,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+PS,Antigo,Action,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Sony Computer Entertainment,Baixissimo,Medio,Baixissimo,Baixissimo,Medio
+3DS,Medio,Puzzle,Nintendo,Baixissimo,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Action,Square Enix,Baixissimo,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Role-Playing,Capcom,Baixissimo,Baixissimo,Baixo,Baixissimo,Medio
+WiiU,Novo,Action,Nintendo,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Vivendi Games,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+Wii,Medio,Misc,Disney Interactive Studios,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+WiiU,Novo,Misc,Nintendo,Baixissimo,Baixo,Baixo,Baixissimo,Medio
+PS3,Novo,Sports,Electronic Arts,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+SNES,Muito antigo,Role-Playing,Square,Baixissimo,Baixissimo,Medio,Baixissimo,Medio
+N64,Antigo,Platform,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+XB,Antigo,Fighting,Microsoft Game Studios,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS3,Medio,Fighting,THQ,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+GB,Muito antigo,Adventure,Nintendo,Baixo,Baixissimo,Baixo,Baixissimo,Medio
+PS,Muito antigo,Fighting,Acclaim Entertainment,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Platform,THQ,Medio,Baixo,Baixissimo,Baixissimo,Medio
+GBA,Antigo,Role-Playing,Nintendo,Baixo,Baixissimo,Baixissimo,Baixissimo,Medio
+GEN,Muito antigo,Platform,Sega,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+NES,Muito antigo,Platform,Nintendo,Baixo,Baixissimo,Medio,Baixissimo,Medio
+PS2,Antigo,Fighting,Electronic Arts,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+XB,Antigo,Shooter,Ubisoft,Medio,Baixissimo,Baixissimo,Baixissimo,Medio
+PS2,Antigo,Action,Take-Two Interactive,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+PS3,Novo,Shooter,Take-Two Interactive,Baixo,Baixo,Baixissimo,Baixissimo,Medio
+X360,Medio,Action,Square Enix,Baixo,Baixo,Baixissimo,Baixissimo,Medio
